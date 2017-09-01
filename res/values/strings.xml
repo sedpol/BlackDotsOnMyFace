@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="leaderboard_endless_game">should modified</string> <!-- TODO -->
+    <string name="leaderboard_timed_game">should modified</string> 	<!-- TODO -->
+    <string name="app_id">should modified</string> 						<!-- TODO -->
+    <string name="app_name">Black Dots</string>
+    <string name="title_activity_select_level">Select Level</string>
+    <string name="title_activity_result">Result</string>
+    <string name="title_activity_endless_games">Endless Games</string>
+    <string name="visual_intelligence">Visual\nIntelligence</string>
+    <string name="visual_memory">Visual\nMemory</string>
+    <string name="digital_intelligence">Digital\nIntelligence</string>
+    <string name="digital_memory">Digital\nMemory</string>
+    <string name="visual_intelligence_">Visual Intelligence</string>
+    <string name="visual_memory_">Visual Memory</string>
+    <string name="digital_intelligence_">Digital Intelligence</string>
+    <string name="digital_memory_">Digital Memory</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_hecathlon">Hecathlon</string>
+    <string name="title_activity_brain_map">Brain Map</string>
+    <string name="train">Training</string>
+    <string name="home">Home</string>
+    <string name="check">Check</string>
+    <string name="cont">Continue</string>
+    <string name="start">Start</string>
+    <string name="finish">Finish</string>
+    <string name="next">Next</string>
+    <string name="memorised">Memorised</string>
+    <string name="next_level">Next Level</string>
+    <string name="retry">Try Again</string>
+
+    <!-- colors -->
+    <string name="color_green">Green</string>
+    <string name="color_black">Black</string>
+    <string name="color_white">White</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_yellow">Yellow</string>
+    <string name="color_red">Red</string>
+    <string name="color_purple">Purple</string>
+    <string name="color_orange">Orange</string>
+    <string name="color_pink">Pink</string>
+    <string name="right_answer">Right Answer:</string>
+    <string name="wrong_answer">Wrong Answer:</string>
+    <string name="time">Time:</string>
+    <string name="emp">&#60;&#60;</string>
+    <string name="del">&#60;</string>
+    <string name="congrats">Congratulations, this section is over!</string>
+    <string name="gained_star">You gained: </string>
+
+    <!-- profile -->
+    <string name="brain_power">Brain Power</string>
+    <string name="levels">Levels</string>
+    <string name="brain_graph">Brain Graph</string>
+    <string name="genius">Genius</string>
+    <string name="superior">Superior</string>
+    <string name="average">Average</string>
+    <string name="low_average">Low Average</string>
+    <string name="stupid">Stupid</string>
+    <string name="avg_profile">Average\n</string>
+    <string name="speed">Speed\n</string>
+
+    <!-- promo -->
+    <string name="promo_di_q">Click the right answer!</string>
+    <string name="promo_dm_q">Memorise the number!</string>
+    <string name="promo_dm_a">Enter the number you memorised!</string>
+    <string name="promo_vi">Find the wrong color!</string>
+    <string name="promo_vm_q">Memorise the black dots!</string>
+    <string name="promo_vm_a">Click to draw the black dots you memorised!</string>
+    <string name="promo_vm_r">Green: right answers\nRed: wrong answers\nOrange: missed answers</string>
+
+    <!-- result -->
+    <string name="result_iron_bain_cong">Congratulations! You have a title of Iron Brain.</string>
+    <string name="result_silver_bain_cong">Congratulations! You have a title of Silver Brain.</string>
+    <string name="result_gold_bain_cong">Congratulations! You have a title of Golden Brain.</string>
+    <string name="result_iron_bain">To have a title of Iron Brain, you have to answer min #RIGHT_ANS right answers and gain min #RATING stars rating.</string>
+    <string name="result_silver_bain">To have a title of Silver Brain, you have to answer min #RIGHT_ANS right answers and gain min #RATING stars rating.</string>
+    <string name="result_gold_bain">To have a title of Golden Brain, you have to answer min #RIGHT_ANS right answers and gain min #RATING stars rating.</string>
+
+    <!-- Hecathlon -->
+    <string name="iron_bain_">Iron Brain</string>
+    <string name="silver_bain_">Silver Brain</string>
+    <string name="gold_bain_">Golden Brain</string>
+    <string name="iron_bain">Iron\nBrain</string>
+    <string name="silver_bain">Silver\nBrain</string>
+    <string name="gold_bain">Golden\nBrain</string>
+    <string name="hecathlon_not_availavle"> hecathlon is locked. Finish level #LEVEL of all sections to unlock!</string>
+    <string name="not_enough_gold">You don\'t have enough gold to play this Hecathlon. You need #GOLD golds more!</string>
+    <string name="finish_pre_hecathlon">To play this hecathlon please finish #HEKATLON_TYPE hecathlon!</string>
+    <string name="dialog_title">Payment Info</string>
+    <string name="dialog_message">Pay #GOLD golds to play #HEKATLON_TYPE hecathlon!</string>
+    <string name="dialog_yes">Ok</string>
+    <string name="dialog_no">Cancel</string>
+
+    <!-- share -->
+    <string name="share_scor">I challenge you, my scor is #SCOR. Download and play Black Dots: https://play.google.com/store/apps/details?id=com.warofthebrains.m.blackdotsonmyface</string>
+    <string name="share_subject">Black Dots</string>
+    <string name="share">Share</string>
+
+    <!-- rate -->
+    <string name="rate_title">Rate this app</string>
+    <string name="rate_now">Rate now</string>
+    <string name="rate_later">Later</string>
+    <string name="rate_never">Never</string>
+    <string name="rate_explanation">Do you like our app? Please rate our application on Google Play to support us. Thanks for your support!</string>
+
+</resources>

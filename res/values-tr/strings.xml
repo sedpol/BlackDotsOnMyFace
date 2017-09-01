@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="leaderboard_endless_game">should modified</string> <!-- TODO -->
+    <string name="leaderboard_timed_game">should modified</string> 	<!-- TODO -->
+    <string name="app_id">should modified</string> 						<!-- TODO -->
+    <string name="app_name">Black Dots</string>
+    <string name="title_activity_select_level">Seviyeni Seç</string>
+    <string name="title_activity_result">Sonuç</string>
+    <string name="title_activity_endless_games">Sonsuz Oyun</string>
+    <string name="visual_intelligence">Görsel\nZekâ</string>
+    <string name="visual_memory">Görsel\nHafıza</string>
+    <string name="digital_intelligence">Sayısal\nZekâ</string>
+    <string name="digital_memory">Sayısal\nHafıza</string>
+    <string name="visual_intelligence_">Görsel Zekâ</string>
+    <string name="visual_memory_">Görsel Hafıza</string>
+    <string name="digital_intelligence_">Sayısal Zekâ</string>
+    <string name="digital_memory_">Sayısal Hafıza</string>
+    <string name="title_activity_profile">Profil</string>
+    <string name="title_activity_hecathlon">Hekatlon</string>
+    <string name="title_activity_brain_map">Beyin Haritası</string>
+    <string name="train">Alıştırma</string>
+    <string name="home">Giriş</string>
+    <string name="check">Kontrol Et</string>
+    <string name="cont">Devam</string>
+    <string name="start">Başla</string>
+    <string name="finish">Bitir</string>
+    <string name="next">Sonraki</string>
+    <string name="memorised">Tamam</string>
+    <string name="next_level">Sonraki</string>
+    <string name="retry">Tekrar Dene</string>
+
+    <!-- colors -->
+    <string name="color_green">Yeşil</string>
+    <string name="color_black">Siyah</string>
+    <string name="color_white">Beyaz</string>
+    <string name="color_blue">Mavi</string>
+    <string name="color_yellow">Sarı</string>
+    <string name="color_red">Kırmızı</string>
+    <string name="color_purple">Mor</string>
+    <string name="color_orange">Turuncu</string>
+    <string name="color_pink">Pembe</string>
+    <string name="right_answer">Doğru Cevap:</string>
+    <string name="wrong_answer">Yanlış Cevap:</string>
+    <string name="time">Süre:</string>
+    <string name="emp">&#60;&#60;</string>
+    <string name="del">&#60;</string>
+    <string name="congrats">Tebrikler, bu bölümü bitirdin!</string>
+    <string name="gained_star">Kazandığın yıldız:</string>
+
+    <!-- profile -->
+    <string name="brain_power">Beyin Gücü</string>
+    <string name="levels">Seviye</string>
+    <string name="brain_graph">Zekâ Grafiği</string>
+    <string name="genius">Deha</string>
+    <string name="superior">Zeki</string>
+    <string name="average">Normal Zeka</string>
+    <string name="low_average">Düşük Zeka</string>
+    <string name="stupid">Aptal</string>
+    <string name="avg_profile">Ortalama\n</string>
+    <string name="speed">Hız\n</string>
+
+    <!-- promo -->
+    <string name="promo_di_q">Doğru cevaba tıkla!</string>
+    <string name="promo_dm_q">Sayıyı ezberle!</string>
+    <string name="promo_dm_a">Ezberlediğin sayıyı gir!</string>
+    <string name="promo_vi">Yanlış rengi bul ve tıkla!</string>
+    <string name="promo_vm_q">Siyah noktaları ezberle!</string>
+    <string name="promo_vm_a">Ezberlediğin siyah noktaları işaretle!</string>
+    <string name="promo_vm_r">Yeşil: doğru cevaplar\nKırmızı: yanlış cevaplar\nTuruncu: eksik cevaplar</string>
+
+    <!-- result -->
+    <string name="result_iron_bain_cong">Tabrikler! Demir Beyin ünvanı kazandınız.</string>
+    <string name="result_silver_bain_cong">Tabrikler! Gümüş Beyin ünvanı kazandınız.</string>
+    <string name="result_gold_bain_cong">Tabrikler! Altin Beyin ünvanı kazandınız.</string>
+    <string name="result_iron_bain">Demir Beyin ünvanı kazanmak için, en az #RIGHT_ANS soruya doğru cevap vermeniz ve #RATING yıldız kazanmanız gerekli.</string>
+    <string name="result_silver_bain">Gümüş Beyin ünvanı kazanmak için, en az #RIGHT_ANS soruya doğru cevap vermeniz ve #RATING yıldız kazanmanız gerekli</string>
+    <string name="result_gold_bain">Altın Beyin ünvanı kazanmak için, en az #RIGHT_ANS soruya doğru cevap vermeniz ve #RATING yıldız kazanmanız gerekli</string>
+
+    <!-- Hecathlon -->
+    <string name="iron_bain_">Demir Beyin</string>
+    <string name="silver_bain_">Gümüş Beyin</string>
+    <string name="gold_bain_">Altın Beyin</string>
+    <string name="iron_bain">Demir\nBeyin</string>
+    <string name="silver_bain">Gümüş\nBeyin</string>
+    <string name="gold_bain">Altın\nBeyin</string>
+    <string name="hecathlon_not_availavle"> hekatlonu kilitli. Kilidi açmak için tüm bölümlerin #LEVEL. levellerini bitirmelisin!</string>
+    <string name="not_enough_gold">Bu hekatlonu oynamak için yeterli miktarda altının yok! #GOLD altına daha ihtiyacın var!</string>
+    <string name="finish_pre_hecathlon">Bu hekatlonu oynayabilmek için ilk önce #HEKATLON_TYPE hekatlonunu tamamla!</string>
+    <string name="dialog_title">Ödeme Bilgisi</string>
+    <string name="dialog_message">#GOLD altın ödeyerek #HEKATLON_TYPE hekatlonunu oynayabilirsin!</string>
+    <string name="dialog_yes">Tamam</string>
+    <string name="dialog_no">İptal</string>
+
+    <!-- share -->
+    <string name="share_scor">Sana meydan okuyorum, skorum #SCOR. Black Dots oynunu indir oyna: https://play.google.com/store/apps/details?id=com.warofthebrains.m.blackdotsonmyface</string>
+    <string name="share_subject">Black Dots Oyunu</string>
+    <string name="share">Paylaş</string>
+
+<!--     rate -->
+    <string name="rate_title">Uygulamayı Değerlendir</string>
+    <string name="rate_now">Oy ver</string>
+    <string name="rate_later">Sonra</string>
+    <string name="rate_never">Hatırlatma</string>
+    <string name="rate_explanation">Uygulamamızı beğendin mi? Google Play\'de oy vererek bizi destekleyebilirsin. Desteğin için teşekkürler!</string>
+</resources>
